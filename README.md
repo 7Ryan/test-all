@@ -1,1 +1,1 @@
-feature22 test merge local
+feature2 test merge origin
